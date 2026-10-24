@@ -1,1 +1,2 @@
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=swamprsod&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
+## https://sr.ht/~rsodswamp/
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=swamprsod&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" /> <img src="https://github.com/swamprsod/swamprsod/blob/main/png.png?raw=true" />
