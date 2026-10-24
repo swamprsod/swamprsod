@@ -1,4 +1,4 @@
-## Hi there 👋
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=swamprsod&layout=donut&langs_count=5&theme=shadow_green)](https://github-stats-extended.vercel.app/api/top-langs?username=swamprsod&layout=donut&langs_count=5&theme=shadow_green)
 
 <!--
 **swamprsod/swamprsod** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
